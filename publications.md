@@ -13,7 +13,7 @@ permalink: /publications/
 
 1. **Placing Objects in Gesture Space: Toward Real-Time Understanding of Spatial Descriptions**. <u>Ting Han</u>, Casey Kennington and David Schlangen.  *The thrity-second AAAI conference on artificial intelligence (AAAI18), Feburary 2-7, New Orleans, Louisiana, USA, 2018*. [pdf](files/papers/aaai18.pdf)   [bib](bib/HanEtalaaai18.txt) 
 
-1.  **Draw and Tell: Multimodal Descriptions Outperform Verbal- or Sketch-Only Descriptions in an Image Retrieving Task**.  <u>Ting Han</u> and David Schlangen. *Inproceedings of  the 8th international joint conference of natural language processing (IJCNLP17), Taipei, Taiwan, 2017*.  [PUB](https://pub.uni-bielefeld.de/publication/2913598)
+1.  **Draw and Tell: Multimodal Descriptions Outperform Verbal- or Sketch-Only Descriptions in an Image Retrieving Task**.  <u>Ting Han</u> and David Schlangen. *Inproceedings of  the 8th international joint conference of natural language processing (IJCNLP17), Taipei, Taiwan, 2017*.  [pdf](iles/papers/sketch_ijcnlp_short.pdf)[PUB](https://pub.uni-bielefeld.de/publication/2913598)
 
 1.  **Natural Language Informs the Interpretation of Iconic Gestures: A Computational Approach**. <u>Ting Han</u>, Julian Hough, and David Schlangen. *Inproceedings of the 8th international joint conference of natural language processing (IJCNLP17), Taipei, Taiwan, 2017*.  [PUB](https://pub.uni-bielefeld.de/publication/2913599)
 
