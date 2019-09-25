@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Publications
 
-1. **Sketch Me if You Can: Towards Generating Detailed Descriptions of Object Shape by Grounding in Images and Drawings**.   <u>Ting Han</u>, and Sina Zarrieß.  *Proceedings of the 12th International Conference on Natural Language Generation (INLG19)*, October 19 -November 1 2019, Tokyo, Japan. [PDF](files/papers/semdial18.pdf)
+1. **Sketch Me if You Can: Towards Generating Detailed Descriptions of Object Shape by Grounding in Images and Drawings**.   <u>Ting Han</u>, and Sina Zarrieß.  *Proceedings of the 12th International Conference on Natural Language Generation (INLG19)*, October 19 -November 1 2019, Tokyo, Japan. [PDF](files/papers/inlg19.pdf)
 
 1. **Bridging the Gap between Robotic Applications andComputational Intelligence - An Overview on Domestic Robotics**.   Junpei Zhong, <u>Ting Han</u>, Ahmad Lotfi, Angelo Cangelosi, and Xiaofeng Liu.  *2019 IEEE Symposium Series on Computational Intelligence (IEE DR)*, December 6-9 2019, Xiamen, China. [PDF](files/papers/semdial18.pdf)
 

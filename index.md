@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Ting Han 
+# Ting Han
 
 <!--<em>Curriculum Vitae: </em><a href="/files/CV_new.pdf" >target="_blank">PDF</a>  <small>(August, 2018)</small> <br>-->
 Researcher<br>
@@ -26,13 +26,18 @@ I’m interested in enabling AIs to understand natural human communications. My 
 <b>Keywords:</b> Multimodal interactions, natural language processing, co-verbal gestures
 
 ## Publications
+1. **Sketch Me if You Can: Towards Generating Detailed Descriptions of Object Shape by Grounding in Images and Drawings**.   <u>Ting Han</u>, and Sina Zarrieß.  *Proceedings of the 12th International Conference on Natural Language Generation (INLG19)*, October 19 -November 1 2019, Tokyo, Japan. [PDF](files/papers/inlg19.pdf)
+
+1. **Bridging the Gap between Robotic Applications andComputational Intelligence - An Overview on Domestic Robotics**.   Junpei Zhong, <u>Ting Han</u>, Ahmad Lotfi, Angelo Cangelosi, and Xiaofeng Liu.  *2019 IEEE Symposium Series on Computational Intelligence (IEE DR)*, December 6-9 2019, Xiamen, China. [PDF](files/papers/semdial18.pdf)
+
+
 1. **Learning to Describe Multimodally from Parallel Unimodal Data? A Pilot Study on Verbal and Sketched Object Descriptions**.   <u>Ting Han</u>,  Sina Zarrieß, Kazunori Komatani, and David Schlangen.  *Proceedings of the 22nd Workshop on the Semantics and Pragmatics of Dialogue (AixDial)*, November 8-10th 2018, Aix-en-Provence (France) [PDF](files/papers/semdial18.pdf)
 
 1.  **Learning to Interpret and Apply Multimodal Descriptions**. <u>Ting Han</u>. *Bielefeld University*, 2018.
 
 1. **A Corpus of Natural Multimodal Spatial Scene Descriptions**.  <u>Ting Han</u> and David Schlangen. *The 11th edition of the Language Resources and Evaluation Conference (LREC18)*, 7-12 May 2018, Miyazaki, Japan. [pdf](files/papers/lrec18.pdf)  [bib](bib/Hanlrec18.txt)
 
-1. **Placing Objects in Gesture Space: Toward Real-Time Understanding of Spatial Descriptions**. <u>Ting Han</u>, Casey Kennington and David Schlangen.  *The thrity-second AAAI conference on artificial intelligence (AAAI18), Feburary 2-7, New Orleans, Louisiana, USA, 2018*. [pdf](files/papers/aaai18.pdf)   [bib](bib/HanEtalaaai18.txt) 
+1. **Placing Objects in Gesture Space: Toward Real-Time Understanding of Spatial Descriptions**. <u>Ting Han</u>, Casey Kennington and David Schlangen.  *The thrity-second AAAI conference on artificial intelligence (AAAI18), Feburary 2-7, New Orleans, Louisiana, USA, 2018*. [pdf](files/papers/aaai18.pdf)   [bib](bib/HanEtalaaai18.txt)
 
 1.  **Draw and Tell: Multimodal Descriptions Outperform Verbal- or Sketch-Only Descriptions in an Image Retrieving Task**.  <u>Ting Han</u> and David Schlangen. *Inproceedings of  the 8th international joint conference of natural language processing (IJCNLP17), Taipei, Taiwan, 2017*.  [pdf](files/papers/sketch_ijcnlp_short.pdf) [PUB](https://pub.uni-bielefeld.de/publication/2913598)
 
@@ -49,6 +54,4 @@ I’m interested in enabling AIs to understand natural human communications. My 
 
 6. **Towards Automatic Understanding of ‘Virtual Pointing’ in Interaction**.  <u>Ting Han</u>, Spyros Kousidis, and David Schlangen, *Proceedings of the 18th SemDial Workshop on the Semantics and Pragmatics of Dialogue (DialWatt), Posters. Herriot-Watt University; 2014: 188-190*. [poster] [PUB](https://pub.uni-bielefeld.de/publication/2685950)
 
-7. **A Fast Dark Channel Prior-Based Depth Map Approximation Method for Dehazing Single Images**. <u>Ting Han</u> and Yi Wan. *In International Conference on Information Science and Technology (ICIST), 2013, pages 1355–1359.* [PUB](http://ieeexplore.ieee.org/abstract/document/6747789/) 
-
-
+7. **A Fast Dark Channel Prior-Based Depth Map Approximation Method for Dehazing Single Images**. <u>Ting Han</u> and Yi Wan. *In International Conference on Information Science and Technology (ICIST), 2013, pages 1355–1359.* [PUB](http://ieeexplore.ieee.org/abstract/document/6747789/)
