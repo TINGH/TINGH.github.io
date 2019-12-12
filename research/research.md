@@ -5,6 +5,7 @@ permalink: /research/
 ---
 
 ## Open-source corpora
+- [Mandarinograd](https://gitlab.com/vanTot/mandarinograd): A collection of 154 Winograd Schemas in Mandarin Chinese
 - [A Multimodal Corpus of Spatial Descriptions
 ](/research/scene/)
 
