@@ -12,6 +12,7 @@ I received my PhD from <a href="https://www.uni-bielefeld.de" target="_blank"> B
 
 
 ### Publications
+1. **Mandarinograd: A Chinese Collection of Winograd Schemas**.  Timothee Bernard and <u>Ting Han</u>. *The 12th edition of the Language Resources and Evaluation Conference (LREC2020)*, 13-15 May 2020, Marseille, France. 
 1. **Sketch Me if You Can: Towards Generating Detailed Descriptions of Object Shape by Grounding in Images and Drawings**.   <u>Ting Han</u>, and Sina Zarrieß.  *Proceedings of the 12th International Conference on Natural Language Generation (INLG19)*, October 19 -November 1 2019, Tokyo, Japan. [PDF](files/papers/inlg19.pdf)
 1. **Bridging the Gap between Robotic Applications andComputational Intelligence - An Overview on Domestic Robotics**.   Junpei Zhong, <u>Ting Han</u>, Ahmad Lotfi, Angelo Cangelosi, and Xiaofeng Liu.  *2019 IEEE Symposium Series on Computational Intelligence (IEE DR)*, December 6-9 2019, Xiamen, China. [PDF](files/papers/semdial18.pdf)
 1. **Learning to Describe Multimodally from Parallel Unimodal Data? A Pilot Study on Verbal and Sketched Object Descriptions**.   <u>Ting Han</u>,  Sina Zarrieß, Kazunori Komatani, and David Schlangen.  *Proceedings of the 22nd Workshop on the Semantics and Pragmatics of Dialogue (AixDial)*, November 8-10th 2018, Aix-en-Provence (France) [PDF](files/papers/semdial18.pdf)
